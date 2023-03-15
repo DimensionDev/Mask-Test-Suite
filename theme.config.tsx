@@ -10,9 +10,9 @@ const config: DocsThemeConfig = {
         </>
     ),
     project: {
-        link: 'https://github.com/DimensionDev/Maskbook',
+        link: 'https://github.com/DimensionDev/Mask-Test-Suite',
     },
-    docsRepositoryBase: 'https://github.com/DimensionDev/Maskbook',
+    docsRepositoryBase: 'https://github.com/DimensionDev/Mask-Test-Suite/tree/main/',
     footer: {
         text: 'Your Portal To The New, Open Internet.',
     },

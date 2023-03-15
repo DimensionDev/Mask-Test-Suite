@@ -14,7 +14,7 @@ const config: DocsThemeConfig = {
     },
     docsRepositoryBase: 'https://github.com/DimensionDev/Maskbook',
     footer: {
-        text: 'Nextra Docs Template',
+        text: 'Your Portal To The New, Open Internet.',
     },
 }
 

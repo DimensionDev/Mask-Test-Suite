@@ -1,7 +1,7 @@
 {
   "name": "nextra-docs-template",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Your Portal To The New, Open Internet.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

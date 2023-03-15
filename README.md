@@ -1,4 +1,4 @@
-# Nextra Docs Template 
+# Mask Network Test Suite
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
